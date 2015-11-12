@@ -52,7 +52,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="README.MD" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Libs\dnlib.dll" />
